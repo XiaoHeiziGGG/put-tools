@@ -1,4 +1,4 @@
-<img width="1848" height="1085" alt="1" src="https://github.com/user-attachments/assets/47c801ca-6475-426a-b7d0-07677ae4d659" /># Put-Tools for ComfyUI
+# Put-Tools for ComfyUI
 
 🎨 **ComfyUI 异形图像处理工具集** - 专业的非矩形区域图像处理解决方案
 
