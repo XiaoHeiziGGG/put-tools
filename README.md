@@ -2,6 +2,8 @@
 
 🎨 **ComfyUI 异形图像处理工具集** - 专业的非矩形区域图像处理解决方案
 
+配合put it的kontext的lora进行更加简便的操作剪裁功能
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![ComfyUI](https://img.shields.io/badge/ComfyUI-Compatible-green.svg)](https://github.com/comfyanonymous/ComfyUI)
 
