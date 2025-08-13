@@ -41,7 +41,7 @@
 ### 方法一：Git Clone（推荐）
 ```bash
 cd ComfyUI/custom_nodes
-git clone https://github.com/your-username/put-tools.git
+git clone https://github.com/XiaoHeiziGGG/put-tools.git
 ```
 
 ### 方法二：手动下载
